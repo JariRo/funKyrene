@@ -1,0 +1,19 @@
+{
+  "name": "kyrene",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hahaha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JariRo/funKyrene.git"
+  },
+  "author": "jari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JariRo/funKyrene/issues"
+  },
+  "homepage": "https://github.com/JariRo/funKyrene#readme"
+}
